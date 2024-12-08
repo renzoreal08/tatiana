@@ -1,0 +1,32 @@
+/* Estilo del fondo */
+body {
+    background-color: #fce7f3;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.hidden {
+    display: none;
+}
+
+.message {
+    font-size: 2em;
+    margin: 20px;
+    color: #ff4081;
+    font-weight: bold;
+}
+
+.image-collage img {
+    width: 80%;
+    max-width: 500px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.video-collage video {
+    width: 80%;
+    max-width: 500px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
